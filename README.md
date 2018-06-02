@@ -1,5 +1,5 @@
 # Game-Changer-Sites
-This is my company website
+This is my company website. It is a website developing company creating reliable, smooth layout and easy to navigate websites.
 
 # Company Url
 1. please go to www.gamechangersites.co.za to visit my website company
